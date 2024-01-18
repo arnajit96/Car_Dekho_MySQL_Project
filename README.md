@@ -4,8 +4,8 @@ The Car Dekho MySQL portfolio project aims to develop a robust and scalable data
 
 
 Technology Use:- 
-Mysql (for analysis) 
-Canva (for presentation)
+i)Mysql (for analysis) 
+ii)Canva (for presentation)
 
 Insights:- 
 -- Total cars: To get a count of total records
