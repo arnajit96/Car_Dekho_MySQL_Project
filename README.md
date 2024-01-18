@@ -6,7 +6,9 @@ The Car Dekho MySQL portfolio project aims to develop a robust and scalable data
 
 
 Technology Use:- 
+
 i)Mysql (for analysis) 
+
 ii)Canva (for presentation)
 
 Insights:-
@@ -35,13 +37,19 @@ Insights:-
 -- The Manager said to the employee all the car details between 2015 to 2023 need 
 -- complete list 
 
-Functioned Used:- 
-Select, 
+Functioned Used:-
+
+Select,
+
 From, 
-Where, 
-Count, 
+
+Where,
+
+Count,
+
 Max, 
+
 Group By
 
-I uploaded mysql and presentation file in github for reference 
+I uploaded MySQL and presentation file in GitHub for reference 
 
