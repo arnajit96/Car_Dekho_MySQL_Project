@@ -9,19 +9,29 @@ Technology Use:-
 i)Mysql (for analysis) 
 ii)Canva (for presentation)
 
-Insights:- 
+Insights:-
+
 -- Total cars: To get a count of total records
+
 -- The manager asked the employee How many cars will be available in 2023.
+
 -- The manager asked the employee how many cars are available in 2020, 2021 and 2022. 
+
 -- The Client asked me to print the total of all cars by year. 
+
 -- The Client asked the car dealer agent How many diesel cars will there be in 2020.
+
 -- client requested a car dealer agent how many petrol cars will there be in 2020?
+
 -- The manager told me the employee to give a print all the fuels cars(petrol, diesel and 
 -- cng ) come by all year.
+
 -- Manager said there were more than 100 cars in a given year, which year had more 
 -- than 100 cars?
+
 -- The manager said to the employee all car count details between 2015 and 2023, 
 -- We need a complete list
+
 -- The Manager said to the employee all the car details between 2015 to 2023 need 
 -- complete list 
 
